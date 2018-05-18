@@ -7,7 +7,7 @@ import 'element-ui/lib/theme-chalk/index.css'
 import VueSocketio from 'vue-socket.io';
 
 Vue.config.productionTip = false
-Vue.use(VueSocketio, 'http://123.207.140.107:3000');
+Vue.use(VueSocketio, 'http://host:port');
 Vue.use(ElementUI)
 
 /* eslint-disable no-new */
