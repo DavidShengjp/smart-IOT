@@ -1,10 +1,9 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "436476764";
-const char* password = "xingjiebang";
+const char* ssid = "******";
+const char* password = "********";
 
-const char* host = "123.207.140.107";
-// const char* host = "192.168.2.207";
+const char* host = "*******";
 const int port=3001;
 
 void setup()
